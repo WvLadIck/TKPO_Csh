@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Lab1_SRP_OCP/1.0.0": {
+        "runtime": {
+          "Lab1_SRP_OCP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab1_SRP_OCP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\Study\TKPO_Csh\Lab1_SRP_OCP\Lab1_SRP_OCP\bin\Debug\net10.0\Lab1_SRP_OCP.exe
+D:\Study\TKPO_Csh\Lab1_SRP_OCP\Lab1_SRP_OCP\bin\Debug\net10.0\Lab1_SRP_OCP.deps.json
+D:\Study\TKPO_Csh\Lab1_SRP_OCP\Lab1_SRP_OCP\bin\Debug\net10.0\Lab1_SRP_OCP.runtimeconfig.json
+D:\Study\TKPO_Csh\Lab1_SRP_OCP\Lab1_SRP_OCP\bin\Debug\net10.0\Lab1_SRP_OCP.dll
+D:\Study\TKPO_Csh\Lab1_SRP_OCP\Lab1_SRP_OCP\bin\Debug\net10.0\Lab1_SRP_OCP.pdb
+D:\Study\TKPO_Csh\Lab1_SRP_OCP\Lab1_SRP_OCP\obj\Debug\net10.0\Lab1_SRP_OCP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\TKPO_Csh\Lab1_SRP_OCP\Lab1_SRP_OCP\obj\Debug\net10.0\Lab1_SRP_OCP.AssemblyInfoInputs.cache
+D:\Study\TKPO_Csh\Lab1_SRP_OCP\Lab1_SRP_OCP\obj\Debug\net10.0\Lab1_SRP_OCP.AssemblyInfo.cs
+D:\Study\TKPO_Csh\Lab1_SRP_OCP\Lab1_SRP_OCP\obj\Debug\net10.0\Lab1_SRP_OCP.csproj.CoreCompileInputs.cache
+D:\Study\TKPO_Csh\Lab1_SRP_OCP\Lab1_SRP_OCP\obj\Debug\net10.0\Lab1_SRP_OCP.sourcelink.json
+D:\Study\TKPO_Csh\Lab1_SRP_OCP\Lab1_SRP_OCP\obj\Debug\net10.0\Lab1_SRP_OCP.dll
+D:\Study\TKPO_Csh\Lab1_SRP_OCP\Lab1_SRP_OCP\obj\Debug\net10.0\refint\Lab1_SRP_OCP.dll
+D:\Study\TKPO_Csh\Lab1_SRP_OCP\Lab1_SRP_OCP\obj\Debug\net10.0\Lab1_SRP_OCP.pdb
+D:\Study\TKPO_Csh\Lab1_SRP_OCP\Lab1_SRP_OCP\obj\Debug\net10.0\Lab1_SRP_OCP.genruntimeconfig.cache
+D:\Study\TKPO_Csh\Lab1_SRP_OCP\Lab1_SRP_OCP\obj\Debug\net10.0\ref\Lab1_SRP_OCP.dll
+D:\Study\TKPO_Csh\Lab1_SRP_OCP\Lab1_SRP_OCP\obj\Debug\net10.0\Lab1_SRP.88985D20.Up2Date
